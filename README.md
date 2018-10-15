@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jcmljunior/Materia-OSX/master/preview.jpeg" alt="preview"/>
+  <img src="https://raw.githubusercontent.com/jcmljunior/Adapta-OSX/master/preview.jpeg" alt="preview"/>
 </p>
 
 Adapta OSX is aurorae theme that mimics Yosemite window decoration, with [Adapta](https://github.com/PapirusDevelopmentTeam/adapta-kde) colors, based on [Breezemite](https://github.com/andreyorst/Breezemite).
